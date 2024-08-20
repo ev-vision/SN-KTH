@@ -12,7 +12,6 @@ This repo provides the materials of [Neuromorphic Imaging and Classification wit
   doi      =  {10.1016/j.neucom.2023.127010},
 }
 ```
-Find more Neuromorphic Imaging achievements from our group: [HKU Imaging Systems Laboratory](https://www.eee.hku.hk/~elam/research/pub-uf.html).
 ## Dataset
 1. N-CARS:      https://www.prophesee.ai/2018/03/13/dataset-n-cars/
 2. N-MNIST:     https://www.garrickorchard.com/datasets/n-mnist
